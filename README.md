@@ -19,4 +19,5 @@
 <a href="https://medium.com/@MarcoVanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@MarcoVanoppen" height="20" width="25" /></a>   
 <a href="https://www.imdb.com/name/nm15076807/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg" alt="name/nm15076807/" height="20" width="25" /></a>  
 <a href="https://www.discogs.com/artist/3193949-Marco-Vanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discogs.svg" alt="3193949-Marco-Vanoppen" height="20" width="25" /></a>  
+<a href="https://www.deezer.com/artist/240654851" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deezer.svg" alt="40654851" height="20" width="25" /></a>  
 </p>

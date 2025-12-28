@@ -6,4 +6,4 @@
 ![Marco_Vanoppen 1 (1)](https://github.com/user-attachments/assets/ad49dabd-eeef-44aa-abcb-d6d23ebb4942)
 ![Marco_Vanoppen 5 (1)](https://github.com/user-attachments/assets/463d9d53-1453-46e0-92e4-162eced757ab)
 ![Marco_Vanoppen 2 (1)](https://github.com/user-attachments/assets/47fdb069-fa5c-4a17-a327-daf5016d6c6f)
-![Marco_Vanoppen  6 (1)](https://github.com/user-attachments/assets/e027ebf0-fd98-47e7-96f5-879b382ca1b1)
+

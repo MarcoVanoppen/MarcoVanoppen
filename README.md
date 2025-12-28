@@ -7,3 +7,15 @@
 ![Marco_Vanoppen 5 (1)](https://github.com/user-attachments/assets/463d9d53-1453-46e0-92e4-162eced757ab)
 ![Marco_Vanoppen 2 (1)](https://github.com/user-attachments/assets/47fdb069-fa5c-4a17-a327-daf5016d6c6f)
 
+
+
+
+<p align="center">
+<a href="https://www.patreon.com/cw/Marco_Vanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/patreon.svg" alt="Marco_Vanoppen" height="20" width="25" /></a>
+<a href="https://linkedin.com/in/marcovanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Marco_Vanoppen" height="20" width="25" /></a>
+<a href="https://www.xing.com/profile/Marco_Vanoppen015750" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="Marco_Vanoppen" height="20" width="25" /></a>
+<a href="https://orcid.org/0009-0007-9882-4698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="0009-0007-9882-4698" height="20" width="25" /></a>
+<a href="https://fr.wikipedia.org/wiki/Marco_Vanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wikipedia.svg" alt="Marco_Vanoppen" height="20" width="25" /></a>    
+<a href="https://medium.com/@MarcoVanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@MarcoVanoppen" height="20" width="25" /></a>   
+<a href="https://www.imdb.com/name/nm15076807/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg" alt="name/nm15076807/" height="20" width="25" /></a>  
+</p>

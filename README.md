@@ -17,9 +17,13 @@
 <a href="https://orcid.org/0009-0007-9882-4698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="0009-0007-9882-4698" height="20" width="25" /></a>
 <a href="https://fr.wikipedia.org/wiki/Marco_Vanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wikipedia.svg" alt="Marco_Vanoppen" height="20" width="25" /></a>    
 <a href="https://medium.com/@MarcoVanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@MarcoVanoppen" height="20" width="25" /></a>   
+<a href="https://antwerp.academia.edu/MarcoVanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg" alt="MarcoVanoppen" height="20" width="25" /></a>   
 <a href="https://www.imdb.com/name/nm15076807/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg" alt="name/nm15076807/" height="20" width="25" /></a>  
 <a href="https://www.discogs.com/artist/3193949-Marco-Vanoppen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discogs.svg" alt="3193949-Marco-Vanoppen" height="20" width="25" /></a>  
 <a href="https://www.deezer.com/artist/240654851" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deezer.svg" alt="40654851" height="20" width="25" /></a>  
 <a href="https://marcovanoppen.bandcamp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandcamp.svg" alt="marcovanoppen" height="20" width="25" /></a>  
 <a href="https://music.apple.com/us/artist/marco-vanoppen/1559505944" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/applemusic.svg" alt="marco-vanoppen/1559505944"" height="20" width="25" /></a>  
+<a href="https://www.crunchbase.com/person/marco-vanoppen-8d00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/crunchbase.svg" alt="marco-vanoppen-8d00"" height="20" width="25" /></a>  
+<a href="https://loop.frontiersin.org/people/3072552" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/loop.svg" alt="people/3072552" height="20" width="25" /></a>  
+<a href="https://www.instagram.com/marcovanoppenartist/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marcovanoppenartist" height="20" width="25" /></a>  
 </p>

@@ -26,5 +26,6 @@
 <a href="https://www.crunchbase.com/person/marco-vanoppen-8d00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/crunchbase.svg" alt="marco-vanoppen-8d00"" height="20" width="25" /></a>  
 <a href="https://loop.frontiersin.org/people/3072552" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/loop.svg" alt="people/3072552" height="20" width="25" /></a>  
 <a href="https://www.instagram.com/marcovanoppenartist/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marcovanoppenartist" height="20" width="25" /></a>  
+<a href="https://figshare.com/authors/Marco_Vanoppen/20295615" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figshare.svg" alt="Marco_Vanoppen/20295615" height="20" width="25" /></a>   
 <a href="https://www.shazam.com/artist/marco-vanoppen/1559505944" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shazam.svg" alt="marco-vanoppen/1559505944" height="20" width="25" /></a>                                                                
 </p>
